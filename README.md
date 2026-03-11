@@ -18,8 +18,6 @@ Project management system developed as part of Software Design coursework.
 - Clean Code
 - Test Driven Development
 
-[See more](./tasktrackpro/README.md)
-
 ---
 
 ### 2. Virtual Theme Park Management System
@@ -38,8 +36,6 @@ Management system for a virtual theme park developed as part of Software Design 
 - Domain modeling
 - Clean Code
 - Test Driven Development
-
-[See more](./parque-tematico-virtual/README.md)
 
 ---
 
